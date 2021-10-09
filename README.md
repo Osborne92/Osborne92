@@ -9,7 +9,7 @@
 
 <br />
 
-<h2>Connect with me on <a href="https://linkedin.com/in/dane-christensen92">LinkedIn!</a> <h2>
+<h2>Connect with me on <a href="https://linkedin.com/in/dane-christensen92">LinkedIn!</a> </h2>
 
 <br />
 
@@ -28,5 +28,3 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-[linkedin]: https://linkedin.com/in/dane-christensen92
