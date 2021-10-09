@@ -1,6 +1,6 @@
-### Hi there, I'm Dane
+ <h2>Hi there, I'm Dane</h2>
 
-## I'm a Developer, lifelong learner, and a nature enthusiast!!
+ <h2>I'm a Developer, lifelong learner, and a nature enthusiast!!</h2>
 
 - 🔭 Check out my latest projects!
 - 🌱 Always striving to be a better developer and person
