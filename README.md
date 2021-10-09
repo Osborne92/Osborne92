@@ -2,10 +2,11 @@
 
  <h2>I'm a Developer, lifelong learner, and a nature enthusiast!!</h2>
 
-- 🔭 Check out my latest projects!
-- 🌱 Always striving to be a better developer and person
-- 🥅 2021 Goals: Would love to get a jr. dev position! 
-- ⚡ Fun fact: I am an excellent cook
+- 🔭 Currently, I'm working on a few online Java courses, improving my interviewing skills 
+- 🌱 I'm currently learning about data structures and algorithms w/ Java! 
+- 👯 Always looking to work with like-minded people
+- 🥅 2021 Goals: To get that jr. dev position!
+- ⚡ Fun fact: I am a very good cook
 
 <br />
 
