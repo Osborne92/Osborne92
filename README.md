@@ -9,7 +9,7 @@
 
 <br />
 
-<h1>Connect with me on <a href="https://linkedin.com/in/dane-christensen92">LinkedIn!</a> <h1>
+<h2>Connect with me on <a href="https://linkedin.com/in/dane-christensen92">LinkedIn!</a> <h2>
 
 <br />
 
