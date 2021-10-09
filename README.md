@@ -1,6 +1,6 @@
  <h2>Hi there, I'm Dane</h2>
 
- <h2>I'm a Developer, lifelong learner, and a nature enthusiast!!</h2>
+ <h2>I'm a developer, lifelong learner, and a nature enthusiast!!</h2>
 
 - 🔭 Currently, I'm working on a few online Java courses, improving my interviewing skills 
 - 🌱 I'm currently learning about data structures and algorithms w/ Java! 
